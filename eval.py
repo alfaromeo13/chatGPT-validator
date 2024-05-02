@@ -6,7 +6,8 @@ from threading import Thread
 
 start = time.time()
 model_name = "gpt-3.5-turbo-0125"
-client = OpenAI(api_key="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")
+#TODO: change to your secretKey check here for documentation (https://platform.openai.com)
+client = OpenAI(api_key="sk-...yTbC")
 
 #here we do ChatGPT validation
 def validateQuestion(row,question_row,question_title,correct_answer):
