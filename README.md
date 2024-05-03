@@ -1,4 +1,8 @@
-# gpt validation Script 
+# GPT Exam Answer Validator
+
+<p align="center">
+<img src="https://github.com/alfaromeo13/chatGPT-validator/assets/60315689/c092ed10-4da7-47c7-89f1-5877f530419e" alt="drawing"/>
+</p>
 
 ### Introduction
 
@@ -29,7 +33,7 @@ Ensure the CSV file (test.csv in this example) contains the questions and pupil 
 Run the script:
     
 ```
-python3 eval.py
+python3 ./eval.py
 ```
 
 ### Important Notes
